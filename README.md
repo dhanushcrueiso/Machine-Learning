@@ -1,2 +1,2 @@
 # Machine-Learning
-The dataset is also in the repo along with the code
+The dataset is taken from a peer online who is also working for a prediction model.
